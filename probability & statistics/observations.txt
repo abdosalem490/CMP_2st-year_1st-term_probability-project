@@ -1,0 +1,37 @@
+-> USA : inversely proportional through first 3 months then directly proportional
+-> Australia : directly proportional all the way down
+-> Netherlands : no relation 
+-> Italy : inversely proportional all the way down
+-> Canada : inversly proportional between monthes 6 to 8 in 2021 , other than that no relation 
+-> UK :   inversely proportional between monthes 1 to 5 in 2021 then directly proportional  all the way down
+-> Belgium : no relation but we can say it decreased the peaks of the waves
+-> France : no relation but it decreased the peaks of the waves
+-> Germany : we can say inversely proportional between months 5 to 8 in 2021 then it decreased the values of the peaks of waves
+'-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+-> Egypt : inversely proportional between months 1 to 7 then no relation , also it didn't decrease the peak of the waves
+-> Cape Verde : no relation, but it decreased the peaks of the waves
+-> Djibouti : no relation as not enough data
+-> Guatemala : no relation , also it didn't decrease the peak of the waves 
+-> Paraguay : inversely proportional all the way down
+-> Guyana : no relation
+-> Iran : hard to tell but we can say invesey proportional between monts 8 to 10
+-> Philippines : no effect , even the peaks of the waves become higher
+'===================================================================================================
+-> USA : Johnson&Johnson, Moderna, Pfizer/BioNTech
+-> Australia : Moderna, Oxford/AstraZeneca, Pfizer/BioNTech
+-> Netherlands : Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech
+-> Italy : Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech
+-> Canada : Moderna, Oxford/AstraZeneca, Pfizer/BioNTech
+-> UK : Moderna, Oxford/AstraZeneca, Pfizer/BioNTech
+-> Belgium : Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech
+-> France : Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech
+-> Germany : Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech
+'-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+-> Egypt : Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V
+-> Cape Verde : Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing
+-> Djibouti : Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V
+-> Guatemala : Moderna, Oxford/AstraZeneca
+-> paraguay : Covaxin, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V
+-> Guyana : Oxford/AstraZeneca, Sputnik V
+-> Iran : COVIran Barekat, Covaxin, Oxford/AstraZeneca, Sinopharm/Beijing, Soberana02, Sputnik V
+-> Philippines : Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V
